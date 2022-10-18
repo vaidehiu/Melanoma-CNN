@@ -1,4 +1,4 @@
-# Project Name
+# Melanoma Skin Cancer Detection - CNN 
 > There are many types of cancers focused on skin/derma in layman tongue upper layer of body. Some are benign some malignanant out of which Melanoma is most fatal malignant cancer type as it accounts for 75% of skin cancer death .
 
 
